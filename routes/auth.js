@@ -24,7 +24,7 @@ router.get('/google/callback',
     failureFlash: true 
   }),
   (req, res) => {
-    res.redirect('https://p2-28064278-2.onrender.com/contactos');
+    res.redirect('https://p2-28064278-3.onrender.com/contactos');
   }
 );
 
